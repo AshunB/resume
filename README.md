@@ -16,7 +16,7 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 ## Resume
 
-<a href="./resume.html">CLICK HERE!!!</a>
+<a href="Aaron Balayo Resume.docx">CLICK HERE!!!</a>
 
 
 **MY OLD WEBSITE**
