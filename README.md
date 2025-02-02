@@ -18,6 +18,7 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 <a href="Aaron Balayo Resume.docx">CLICK HERE!!!</a>
 
+--
 
 **MY OLD WEBSITE**
 
@@ -26,12 +27,6 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 [Click HERE!!!](https://zerkonium.wixsite.com/pugzye)
 
-
----
-
-Screenshots:
-
-[Part1](https://imgur.com/a/LjSiGs3) |  [Part2](https://imgur.com/a/zlFN2SF)
 
 ## Second Page
 
