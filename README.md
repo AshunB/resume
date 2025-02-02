@@ -14,6 +14,10 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 - Sleep
 - Machine
 
+## Resume
+
+<a href="Aaron Balayo Resume.docx">CLICK HERE!!!</a>
+
 
 **MY OLD WEBSITE**
 
